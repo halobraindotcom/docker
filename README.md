@@ -1,7 +1,7 @@
-# docker
 # Docker
-https://docs.docker.com/engine/install/ubuntu/
- sudo apt install ./docker-desktop-amd64.deb
+Refere - URL https://docs.docker.com/engine/install/ubuntu/
+
+ $ sudo apt install ./docker-desktop-amd64.deb
 
 
 $ docker --version
