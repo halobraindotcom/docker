@@ -10,3 +10,5 @@ Docker version 29.1.4, build 0e6fee6
 $ systemctl --user start docker-desktop
 
 $ sudo docker run hello-world
+
+$ docker ps
