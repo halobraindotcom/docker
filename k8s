@@ -1,0 +1,10 @@
+
+
+
+
+
+$ sudo snap install kubectl --classic
+[sudo] password for sam: 
+kubectl 1.34.3 from Canonical✓ installed
+
+
